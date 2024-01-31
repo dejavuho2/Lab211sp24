@@ -1,0 +1,2 @@
+DoctorManagement.Main
+doctormanagement.common.NewClass
