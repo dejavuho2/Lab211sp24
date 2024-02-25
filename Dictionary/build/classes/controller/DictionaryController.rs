@@ -1,0 +1,2 @@
+controller.NewClass
+Controller.DictionaryController
